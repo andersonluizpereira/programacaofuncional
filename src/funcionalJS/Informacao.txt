@@ -1,0 +1,3 @@
+Os exemplos eu busquei daqui
+https://medium.com/tableless/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b
+Mas fiz alguns ajustes

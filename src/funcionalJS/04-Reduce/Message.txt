@@ -1,0 +1,1 @@
+Uma das funções que mais gera dúvidas é o reduce. Ele recebe como parâmetro um callback e um valor inicial, com o objetivo de reduzir o array a um único valor. O cenário mais comum para explicar o reduce é uma soma

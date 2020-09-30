@@ -1,0 +1,4 @@
+Os exemplos eu busquei daqui
+https://medium.com/tableless/o-que-todo-desenvolvedor-javascript-precisa-saber-2cc33daedb86
+
+Mas fiz alguns ajustes

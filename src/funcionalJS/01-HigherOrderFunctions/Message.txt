@@ -1,0 +1,1 @@
+Matematicamente falando, funções que operam sobre outras funções ou as recebendo como parâmetro ou as retornando são chamadas de Higher-Order Functions.

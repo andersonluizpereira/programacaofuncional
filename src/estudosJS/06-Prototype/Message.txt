@@ -1,0 +1,2 @@
+A herança em JavaScript é feita através dos prototypes. Ela funciona de uma maneira um pouco diferente da herança clássica, o que pode gerar um pouco de confusão mesmo para os desenvolvedores mais experientes em JavaScript.
+Podemos pensar em objetos em JavaScript como agregadores de propriedades dinâmicas. E quando um objeto tenta acessar qualquer propriedade sua e não a encontrar, ela procurará no seu prototype. E se não estiver lá, no prototype de seu prototype até que a propriedade seja encontrada ou então essa corrente, chamada de Prototype Chain, se acabe:

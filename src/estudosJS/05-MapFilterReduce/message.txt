@@ -1,0 +1,4 @@
+Você provavelmente já passou por alguma situação em que era necessário por exemplo iterar sobre um array, ou então verificar se existe alguma propriedade nele ou mesmo simplesmente gerar um novo array com base no primeiro. Os métodos map, filter e reduce nos ajudam nessas situações além de começarmos a pensar mais em termos de programação funcional.
+Map:
+Dado um array qualquer, como podemos fazer para transformá-lo, ou mapeá-lo, em um outro array?
+Existe a forma difícil (sem map):

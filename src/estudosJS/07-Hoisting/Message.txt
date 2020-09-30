@@ -1,0 +1,1 @@
+A tradução de hoist é içar, levantar ou suspender. E é isso que acontece em JavaScript quando declaramos uma variável: ela é levantada até o topo do escopo.

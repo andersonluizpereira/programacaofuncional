@@ -1,0 +1,1 @@
+//A função filter é bem semelhante ao map: ela também recebe um callback como parâmetro e também retorna um novo array, a única diferença é que filter, como o próprio nome diz, retorna um filtro dos elementos do array inicial baseado na função de callback.
